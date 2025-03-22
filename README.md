@@ -41,9 +41,9 @@ Besides practicing coding skills, I commit myself to practice weight training 5 
 
 ## 📂 Projects
 
-###  1.[Wild Oasis Hotel (Admin)](https://wild-oasis-for-employee.vercel.app/)
+###  1.[The Wild Oasis (for staff)](https://wild-oasis-for-employee.vercel.app/)
 
-An application for internal employees of a small boutique hotel to manage bookings, cabins, and guests. Log in with `chee@gmail.com` and password `12345` to manage bookings as an employee.
+An application for internal employees or staff of a small boutique hotel to manage bookings, cabins, and guests. Log in with `chee@gmail.com` and password `12345` to manage bookings as an employee.
 
 - **Technologies**: [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/) [![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)](https://tanstack.com/query)  [![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)  [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)  
 
