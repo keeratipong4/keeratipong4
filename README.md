@@ -2,20 +2,40 @@
 
 I'm a **Web Developer** based in Bangkok, Thailand. After dedicating over 12 years to running my own business, I've transitioned into a career as a **Front-End Developer**. Over the past year, I've focused on mastering modern web development technologies through hands-on projects.
 
+If I had known how steep the learning curve would be, I might have considered giving up at the very start of my journey. The more coding skill I acquire, the more i realize how much there is still to learn. The deeper i dive into coding, the more I understand how little I truly know. This has led me to pursue a career in coding.
+
+## 👤 Personality
+Besides practicing coding skills, I commit myself to practice weight training 5 days a week over the last 11 years. Sometimes I enjoy making videos and share my story on social media, and I used to gain huge audiences on Youtube. 😄🎉
+
+
 ## 🌐 Social Accounts
 
-- **Portfolio Website**: [keeratipong.com](https://www.keeratipong.com/)
-- **GitHub**: [github.com/keeratipong4](https://github.com/keeratipong4)
-- **LinkedIn**: [linkedin.com/in/keeratipong](https://www.linkedin.com/in/keeratipong-boonnapongkasem-99259527b/)
-- **YouTube**: [youtube.com/keeratipong](https://youtube.com/keeratipong)
-- **Facebook**: [facebook.com/cheeblackblue](https://www.facebook.com/cheeblackblue)
-- **Instagram**: [instagram.com/nai_chee](https://www.instagram.com/nai_chee/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-keeratipong.com-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://www.keeratipong.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/keeratipong4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keeratipong-boonnapongkasem-99259527b/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/keeratipong)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cheeblackblue)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nai_chee/)
 
 ## 🛠 Skills
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Redux, React Query
-- **Tools**: Vite, Supabase, Styled Components
+### **Languages**  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+### **Frameworks & Libraries**  
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)  
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)](https://tanstack.com/query)  
+
+### **Tools & Others**  
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)  
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)  
+
 
 ## 📂 Projects
 
@@ -51,7 +71,16 @@ You can download my resume directly from my [website](https://www.keeratipong.co
 
 Feel free to reach out via [email](mailto:keeratipong4@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/keeratipong-boonnapongkasem-99259527b/).
 
+- **Portfolio Website**: [keeratipong.com](https://www.keeratipong.com/)
+- **GitHub**: [github.com/keeratipong4](https://github.com/keeratipong4)
+- **LinkedIn**: [linkedin.com/in/keeratipong](https://www.linkedin.com/in/keeratipong-boonnapongkasem-99259527b/)
+- **YouTube**: [youtube.com/keeratipong](https://youtube.com/keeratipong)
+- **Facebook**: [facebook.com/cheeblackblue](https://www.facebook.com/cheeblackblue)
+- **Instagram**: [instagram.com/nai_chee](https://www.instagram.com/nai_chee/)
+
 <!---
 keeratipong4/keeratipong4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
 --->
