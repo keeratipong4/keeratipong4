@@ -1,5 +1,7 @@
 # Hi, I'm Keeratipong 👋 😄 
 
+You can also call me Qi.
+
 I'm a **Web Developer** based in Bangkok, Thailand. After dedicating over 12 years to running my own business, I've transitioned into a career as a **Front-End Developer**. Over the past year, I've focused on mastering modern web development technologies through hands-on projects.
 
 If I had known how steep the learning curve would be, I might have considered giving up at the very start of my journey. The more coding skill I acquire, the more i realize how much there is still to learn. The deeper i dive into coding, the more I understand how little I truly know. This has led me to pursue a career in coding.
