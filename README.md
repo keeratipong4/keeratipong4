@@ -1,4 +1,4 @@
-# Hi, I'm Keeratipong (Qi) 👋 😄 
+# Hi, I'm Keeratipong (Chee) 👋 😄 ผมชื่อฉี
 
 I'm a **Frontend Developer** based in Bangkok, Thailand, specializing in **AI agentic workflows** and **full product ownership**. I am fluent in Thai 🇹🇭, English 🇺🇸, and Chinese 🇨🇳. 
 
