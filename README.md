@@ -24,6 +24,7 @@ I don't just use AI to write code; I orchestrate it using a structured **7-step 
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat&logo=react&logoColor=white)](https://tanstack.com/start)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+<br>
 [![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)](https://tanstack.com/query)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
