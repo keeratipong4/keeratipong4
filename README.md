@@ -80,6 +80,14 @@ An application for ordering pizza. Users can order, edit, and search for orders.
 - **Technologies**: `React`, `Redux`, `Tailwind CSS`, `Vite`
 - [View Code](https://github.com/keeratipong4/16-fast-react-pizza.git) | [YouTube Explanation](https://youtu.be/yF-5O3hOREQ)
 
+## 🎓 Education & Certifications
+
+- **[B.Eng. in Information and Communication Engineering (International Program)](http://www.ise.eng.chula.ac.th/academics/ice/info)** — <a href="http://www.ise.eng.chula.ac.th/academics/ice/info"><img src="./chulalongkorn-icon.png" width="24" align="top" alt="Chulalongkorn Logo"></a> *Chulalongkorn University*
+  - *Strong foundation in Computer Architecture, Data Structures, and Software Engineering.*
+- **[Full Stack JavaScript Web Developer Bootcamp](https://getcodecamp.com/)** — <a href="https://getcodecamp.com/"><img src="./codecamp-icon.PNG" width="24" align="top" alt="Code Camp Logo"></a> *Software Park Thailand (Code Camp)*
+- **[The Ultimate React Course 2024 (React, Next.js, Redux)](https://www.udemy.com/share/108PTo/)** — <a href="https://www.udemy.com/share/108PTo/"><img src="./udemyLogo.jpg" width="45" align="" alt="Udemy Logo"></a>
+  - *Dedicated 398 hours over 6 months for deep-dive self-directed learning on Udemy.*
+
 ## 👤 Personality & Hobbies
 Besides honing my coding skills, I dedicate myself to weight training five days a week, a routine I've maintained for over 11 years. I also enjoy making videos to share my journey on social media.
 
